@@ -148,3 +148,13 @@ sphinx_*/
 #
 # /*
 # !/debian/
+
+# CENG536 Changes
+.*
+!*.gitignore
+!*.gitattributes
+!*.mailmap
+!*.yamllint
+!*.clang-format
+!*.cocciconfig
+!*.get_maintainer.ignore
